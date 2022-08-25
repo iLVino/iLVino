@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iLVino
-- 👀 I’m interested in block chain environment 
+- 👀 I’m interested in web3  technologies  
 - 🌱 I’m currently working with EVM compatible protocols 
